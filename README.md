@@ -6,3 +6,5 @@ Senha: 1234
 
 Email: carla@airbla.com
 Senha: abcd
+
+Senha da database de SQL: unlimitedbladeworks
